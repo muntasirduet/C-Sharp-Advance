@@ -1,0 +1,6 @@
+﻿{
+    "SystemName": "Stripe",
+    "Name": "Stripe Payment Gateway",
+    "Version": "1.0.0",
+    "CompatibleAppVersion": "1.0.0"
+}
